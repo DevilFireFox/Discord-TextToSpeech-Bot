@@ -1,2 +1,2 @@
-# Discord-TextToSpeech-Bot
+# Discord TextToSpeech Bot
 Small Discord Bot
