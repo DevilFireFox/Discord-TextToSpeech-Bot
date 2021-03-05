@@ -95,7 +95,6 @@ client = commands.Bot(command_prefix = prefix)
 @client.event
 async def on_ready():
     print("")
-    print('We have logged in as {0.user}'.format(client))
     print("TextToSpeech Bot started!")
     print("")
     print("Link to invite the bot: https://discordapp.com/oauth2/authorize?&client_id=" + str(client.user.id) + "&scope=bot&permissions=8")
